@@ -15,7 +15,7 @@
     "db:migrate": "cd packages/worker-api && wrangler d1 migrations apply authmaster-db"
   },
   "devDependencies": {
-    "turbo": "^1.11.0",
+    "turbo": "^2.9.14",
     "typescript": "^5.3.3"
   },
   "engines": {
